@@ -9,7 +9,7 @@ name = "pypi"
 
 readability-lxml = "==0.6.2"
 requests = "==2.18.4"
-lxml = "==4.1.1"
+lxml = "==4.6.5"
 
 
 [dev-packages]
